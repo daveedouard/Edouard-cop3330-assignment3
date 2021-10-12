@@ -1,0 +1,11 @@
+@startuml
+
+class exercise41 {
+
+    public void readNames(Scanner input, ArrayList<String> name){}
+
+    public void printNames(ArrayList<String> name){}
+
+    public static void main(String[] args){}
+}
+@enduml

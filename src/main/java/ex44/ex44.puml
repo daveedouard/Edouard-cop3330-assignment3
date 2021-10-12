@@ -1,0 +1,22 @@
+@startuml
+class ProductSearch {
+Products prod
+public void readFile(String fileName)
+private boolean checkProd(String product)
+private void printProdInfo(DataBlock dataBlock)
+public void start()
+}
+
+class Products {
+List<DataList> data
+public Products(List<DataList> data)
+}
+
+class DataList {
+String name
+double price
+int quantity
+public DataList(String name, double price, int quantity)
+}
+
+@enduml

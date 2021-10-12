@@ -1,0 +1,9 @@
+@startuml
+class wordCount {
+
+public void readInput{}
+public void printCount{}
+private sortFrequency(){}
+
+}
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+
+class exercise42 {
+
+    public static class functions {
+
+        public static class dataSplit {
+            public dataSplit(String lastName, String firstName, int salary) {}
+        }
+
+        public void addList(String str){}
+
+        public void parseData(String inputFile) throws FileNotFoundException {}
+
+        public void printOutput(){}
+    }
+
+     public static void main(String[] args)throws FileNotFoundException{}
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class utilizeFinder {
+String fileString
+public void readInput(String fileName)
+public void swap()
+public void output()
+}
+@enduml

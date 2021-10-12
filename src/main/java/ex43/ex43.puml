@@ -1,0 +1,11 @@
+@startuml
+class website {
+String currentPath
+String author
+String name
+char javaScript
+char css
+public void userInput()
+public void createFiles()
+}
+@enduml
